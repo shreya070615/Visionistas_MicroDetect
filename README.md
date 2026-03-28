@@ -25,11 +25,17 @@ Reports actionable intelligence via AI-generated reports for all stakeholders
 
 🚀 Key Innovations
 Innovation	Description	Impact
+
 🔗 Blockchain Verification	Every detection event cryptographically secured	Legal admissibility, tamper-proof evidence
+
 🌊 Digital Twin	3D real-time contamination simulation	Predictive intelligence, source tracking
+
 🤖 LLM Reports	AI-generated executive, technical & regulatory reports	Stakeholder-specific communication
+
 🎯 Morphology Classification	Fiber, Fragment, Film, Pellet detection with 94% accuracy	Ecological risk assessment at scale
+
 📏 Size Estimation	Feret diameter calculation in micrometers	Severity scoring
+
 🔥 Grad-CAM Heatmaps	Visual explanation of model decisions	Trust & interpretability
 
 
