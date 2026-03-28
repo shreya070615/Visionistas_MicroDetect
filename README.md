@@ -22,7 +22,7 @@ Simulates contamination spread using digital twin technology
 
 Reports actionable intelligence via AI-generated reports for all stakeholders
 
-🚀 Key Innovations
+🚀 Key Innovations For Future Enhancement :
 Innovation	Description	Impact
 
 🔗 Blockchain Verification	Every detection event cryptographically secured	Legal admissibility, tamper-proof evidence
