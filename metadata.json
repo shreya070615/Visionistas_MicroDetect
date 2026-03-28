@@ -1,0 +1,7 @@
+{
+  "name": "MicroGuard AI: Environmental Intelligence Platform",
+  "description": "Automated microplastic morphology classification, risk assessment, and environmental digital twin platform.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
