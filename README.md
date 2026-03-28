@@ -16,23 +16,37 @@ Generates actionable intelligence and stakeholder-specific reports
 Enables autonomous field monitoring through integrated smart hardware
 
 Key Innovation :
-Morphology Classification : Fiber, Fragment, Film, and Pellet detection with 94%+ accuracyAccurate ecological risk assessment at scale📏 Advanced Size & Shape Analysis : Feret diameter, Martin's diameter, and Aspect Ratio calculationPrecise characterization of particle shape and behavior in water
+
+Morphology Classification : Fiber, Fragment, Film, and Pellet detection with 94%+ accuracyAccurate ecological risk assessment at scale
+
+📏 Advanced Size & Shape Analysis : Feret diameter, 
+
+Martin's diameter, and Aspect Ratio calculationPrecise characterization of particle shape and behavior in water
+
 🔥 Grad-CAM Heatmaps : Visual explanation of model decisionsEnhanced trust and interpretability
+
 ⚠️ Ecological Threat Index (ETI) : Combined risk score based on morphology, size, and shape metrics
 
 Future Enhancements : 
+
 🔗 Blockchain Verification : Every detection event cryptographically hashed and stored on blockchainLegal admissibility and tamper-proof evidence (Future)
+
 🌊 Digital Twin Simulation : Real-time 3D simulation of contamination spread and source trackingPredictive intelligence and proactive mitigation (Future)
 
 🛠️ Hardware Prototype
+
 The system features a rugged field-deployable hardware prototype designed for continuous in-situ monitoring:
 
 Turbidity Sensor: Real-time monitoring of water turbidity caused by suspended microplastics and particulates.
+
 Smart Trigger Mechanism: When turbidity crosses a configurable threshold, the system automatically activates the high-magnification imaging module.
+
 High-Resolution Camera: Captures detailed microscopic images of particles in the water flow or filtered sample.
+
 Edge Computing Unit: Processes images locally using OpenCV and the deep learning model for rapid morphology classification, size estimation, and report generation.
 
 ✨ Core Features (MVP)
+
 🔬 Image Classification (Computer Vision Model)
 
 Accepts microscope images (JPG/PNG)
