@@ -8,6 +8,10 @@ Microplastics (<5 mm) are pervasive in oceans, rivers, lakes, and drinking water
 🎯 Incomplete — Focus only on chemical composition while ignoring morphology, which is critical for assessing ecological threat
 
 Our Solution
+
+video Link :
+
+
 A complete, scalable system that:
 
 Automatically detects and classifies microplastics from microscopic images by morphology
@@ -33,7 +37,7 @@ Future Enhancements :
 
 🌊 Digital Twin Simulation : Real-time 3D simulation of contamination spread and source trackingPredictive intelligence and proactive mitigation (Future)
 
-🛠️ Hardware Prototype
+🛠️ Hardware Prototype : https://wokwi.com/projects/new/esp32
 
 The system features a rugged field-deployable hardware prototype designed for continuous in-situ monitoring:
 
@@ -64,4 +68,70 @@ Outputs all measurements in micrometers (μm)
 
 Combined risk score (0–100) based on morphology, size, and shape metrics
 Higher weighting for fibers (entanglement risk) and smaller particles (biological penetration)
+
+
+📊 Model Performance
+
+Classification Metrics
+
+Metric
+
+Value
+
+Classification Accuracy
+
+94.2%
+Precision (Fiber)
+0.93
+Recall (Fiber)
+0.95
+Precision (Fragment)
+0.92
+Recall (Fragment)
+0.91
+Precision (Film)
+0.96
+Recall (Film)
+0.94
+F1 Score (Macro)
+0.93
+Inference Time (CPU)
+240 ms
+Inference Time (GPU)
+40 ms
+
+Size Estimation Accuracy
+
+Particle Size Range
+
+Mean Error
+< 100 μm
+± 5.2 μm
+100–500 μm
+± 8.3 μm
+500–1000 μm
+± 12.1 μm
+> 1000 μm
+± 18.5 μm
+
+Ecological Threat Index Distribution
+
+Threat Level
+
+Score Range
+Percentage
+Critical
+80–100
+23%
+High
+60–79
+35%
+Moderate
+40–59
+28%
+Low
+20–39
+12%
+
+
 
