@@ -37,7 +37,7 @@ Future Enhancements :
 
 🌊 Digital Twin Simulation : Real-time 3D simulation of contamination spread and source trackingPredictive intelligence and proactive mitigation (Future)
 
-🛠️ Hardware Prototype : https://wokwi.com/projects/new/esp32
+🛠️ Hardware Prototype : https://wokwi.com/projects/459723493813291009
 
 The system features a rugged field-deployable hardware prototype designed for continuous in-situ monitoring:
 
